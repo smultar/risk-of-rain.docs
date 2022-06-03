@@ -33,7 +33,7 @@ export default {
   head: ({ title, meta }) => {
     const { route } = useRouter();
 
-    const OpenGraphImage = meta.image || 'https://riskofrain.com/og.png';
+    const OpenGraphImage = meta.image || 'https://riskofmods.com/og.png';
 
     return (
       <>
