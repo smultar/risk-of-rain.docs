@@ -1,6 +1,8 @@
 lockfileVersion: 5.4
 
 specifiers:
+  '@mdx-js/mdx': ^2.1.1
+  '@mdx-js/react': ^2.1.1
   '@reach/skip-nav': ^0.16.0
   autoprefixer: ^10.4.2
   focus-visible: ^5.1.0
@@ -16,6 +18,8 @@ specifiers:
   tailwindcss: ^3.0.16
 
 dependencies:
+  '@mdx-js/mdx': 2.1.1
+  '@mdx-js/react': 2.1.1_react@17.0.2
   '@reach/skip-nav': 0.16.0_sfoxds7t5ydpegc3knd667wn6m
   focus-visible: 5.2.0
   intersection-observer: 0.10.0
