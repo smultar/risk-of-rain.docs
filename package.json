@@ -12,6 +12,8 @@
   "author": "Smultar",
   "license": "Apache-2.0",
   "dependencies": {
+    "@mdx-js/mdx": "^2.1.1",
+    "@mdx-js/react": "^2.1.1",
     "@reach/skip-nav": "^0.16.0",
     "focus-visible": "^5.1.0",
     "intersection-observer": "^0.10.0",
