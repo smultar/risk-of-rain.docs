@@ -33,7 +33,7 @@ export default {
   head: ({ title, meta }) => {
     const { route } = useRouter();
 
-    const OpenGraphImage = meta.image || '';
+    const OpenGraphImage = meta.image || 'https://riskofrain.docs.smultron.com/og.png';
 
     return (
       <>
