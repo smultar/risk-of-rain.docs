@@ -1,0 +1,22 @@
+{
+  "index": {
+    "title": "Introduction",
+    "type": "page",
+    "hidden": true
+  },
+  "interface": {
+    "title": "API's",
+    "type": "page"
+  },
+  "docs": {
+    "title": "Docs",
+    "type": "page"
+  },
+  "guides": {
+    "title": "Guides",
+    "type": "page",
+    "theme": {
+      "sidebar": false
+    }
+  }
+}
