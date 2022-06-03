@@ -1,5 +1,5 @@
 {
-  "name": "swr-site",
+  "name": "Risk of Mods",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "start": "next start",
     "build": "next build"
   },
-  "author": "Shu Ding",
+  "author": "Smultar",
   "license": "Apache-2.0",
   "dependencies": {
     "@reach/skip-nav": "^0.16.0",
